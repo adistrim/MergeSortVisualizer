@@ -1,0 +1,41 @@
+.array-container {
+  position: absolute;
+  margin: 200px;
+  margin-top: 0;
+}
+
+.array-bar {
+  display: flex;
+  width: 2px;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.button {
+  background-color: #98D8AA;
+  margin: 10px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #87CBB9;
+}
+
+.heading {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333333;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+}
