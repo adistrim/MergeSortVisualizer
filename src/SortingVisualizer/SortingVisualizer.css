@@ -2,6 +2,7 @@
   position: absolute;
   margin: 200px;
   margin-top: 0;
+  justify-content: center;
 }
 
 .array-bar {
